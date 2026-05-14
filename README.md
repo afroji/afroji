@@ -92,6 +92,4 @@ const ayush = {
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=afroji.afroji)
 
-*"Code never lies, comments sometimes do."* 💀
-
 </div>
